@@ -129,31 +129,4 @@ if __name__ == "__main__":
 
 ---
 
-## 📚 常用標準函式庫
-
-| 模組 | 說明 | 範例 |
-|:---|:---|:---|
-| `math` | 數學運算 | `sqrt()`, `pi` |
-| `random` | 隨機數 | `randint()`, `choice()` |
-| `datetime` | 日期時間 | `now()`, `strftime()` |
-| `os` | 作業系統操作 | `path.exists()` |
-| `json` | JSON 處理 | `dump()`, `load()` |
-| `re` | 正規表達式 | `match()`, `search()` |
-| `collections` | 進階資料結構 | `Counter`, `defaultdict` |
-
----
-
-## 🎮 練習題
-
-### 練習 1：建立計算器模組
-建立 `calculator.py` 模組，包含加減乘除四個函式
-
-### 練習 2：建立字串工具模組
-建立 `string_utils.py` 模組，包含：
-- `reverse(text)` - 反轉字串
-- `count_words(text)` - 計算單字數量
-- `is_palindrome(text)` - 判斷是否為回文
-
----
-
 [⬅️ 返回課程總覽](../README.md) | [上一章 Module8](../Module8/README.md)
